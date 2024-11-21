@@ -1,0 +1,2 @@
+font-family: "Lexend Zetta", sans-serif;
+font-family: "Oswald", sans-serif;
